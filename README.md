@@ -33,37 +33,3 @@ This project simulates the marks of **10 students** in **5 subjects** and uses N
 📁 numpy-student-analysis
 │── student_analysis.py   # Main script with all NumPy operations
 │── README.md             # Project documentation (this file)
-
-▶️ How to Run
-1. Clone this repository:
-git clone https://github.com/your-username/numpy-student-analysis.git
-cd numpy-student-analysis
-
-2. Install dependencies:
-pip install numpy
-
-3. Run the script:
-python student_analysis.py
-
- 
-📝 Learning Outcomes
-By completing this project, you will learn:
-How to create and manipulate NumPy arrays
-How to analyze tabular data with indexing and slicing
-The concept of axes in aggregation functions
-How boolean masks enable conditional filtering
-Why broadcasting makes NumPy powerful and fast
-How to sort, rank, and reshape data
-Basics of matrix multiplication for weighted calculations
-
-
- 📊 Example Outputs
-Student-wise averages
-Subject-wise averages
-Class average
-Failed student detection
-Top 3 students by total marks
-Weighted scores
-
-👨‍💻 Author
-Rafeek Biradar
