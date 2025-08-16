@@ -24,12 +24,3 @@ This project simulates the marks of **10 students** in **5 subjects** and uses N
 
 - **Python 3.x**  
 - **NumPy** (Numerical Python)  
-
----
-
-## 📂 Project Structure  
-
-```bash
-📁 numpy-student-analysis
-│── student_analysis.py   # Main script with all NumPy operations
-│── README.md             # Project documentation (this file)
